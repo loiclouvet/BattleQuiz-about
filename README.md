@@ -74,6 +74,6 @@ Et oui Jamie, après avoir fait tester et approuver un prototype par notre group
 - [ ] (Ouverture de l’application Beta à tout le monde)
 - [ ] (Implémentation des accès Premium (via les))
 
-Prepare for battle!
+Prepare for battle... Quiz !
 
 ![](https://media1.giphy.com/media/61tYloUgq1eOk/giphy.mp4)
