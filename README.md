@@ -24,14 +24,14 @@ Qui seront les premiers à accéder au rang d’Élite ? 💪
 ## “Gagner c’est bien, progresser c’est mieux !”
 
 Apprendre, c’est le coeur de notre projet. Au programme :
-des questions originales adaptées au niveau des joueurs.
-une seconde chance si vous n’avez pas deviné du premier coup
-des explications inédites basées sur des citations et des sources fiables permettant au joueur de mieux retenir l’information et d’en apprendre plus sur le sujet !
-des questions liées entre elles par leurs explications: soyez-attentifs, vous augmenterez vos chances de gagner ! 
-une rubrique “Le saviez-vous ?” pour ne jamais en finir d’apprendre et de s’améliorer entre vos parties !
-
+- des questions originales adaptées au niveau des joueurs.
+- une seconde chance si vous n’avez pas deviné du premier coup
+- des explications inédites basées sur des citations et des sources fiables permettant au joueur de mieux retenir l’information et d’en apprendre plus sur le sujet !
+- des questions liées entre elles par leurs explications: soyez-attentifs, vous augmenterez vos chances de gagner ! 
+- une rubrique “Le saviez-vous ?” pour ne jamais en finir d’apprendre et de s’améliorer entre vos parties !
 
 ![](https://media.giphy.com/media/i45Wufh14ggPMgSvrC/giphy.gif)
+
 Fini les longues heures devant l’encyclopédie larousse pour gagner aux jeux de quiz !
 
 ## “Parce qu’on aime titiller votre curiosité”
@@ -49,7 +49,8 @@ Image de l’appli (choix question)
 Assurez-vous de bien analyser le profil de votre adversaire afin de choisir les questions qui le mettront en difficulté ! Pour vous faire gagner du temps, les points forts et faibles de chaque joueur sont mis en avant sur leur profil.
 Pour les futures versions, nous travaillons sur des mécanismes permettant plus d’interactions et d’adaptation à l’adversaire. 
 
-![](https://media3.giphy.com/media/3R9LDINpbGX2o/giphy.mp4)
+![](https://media.giphy.com/media/3R9LDINpbGX2o/giphy.gif)
+
 N’hésitez pas à commenter, on a hate de vous lire !
 
 
@@ -58,7 +59,8 @@ N’hésitez pas à commenter, on a hate de vous lire !
 
 Face aux nombreuses expériences de jeux en ligne saturés de publicités commerciales désagréables et inutiles, nous souhaitons libérer votre temps de cerveau disponible pour le consacrer à la curiosité, l’apprentissage et le divertissement !
 
-![](https://media0.giphy.com/media/h9CwMia6QbZuw/giphy.mp4)
+![](https://media.giphy.com/media/h9CwMia6QbZuw/giphy.gif)
+
 Fini les 30 secondes de pub obligatoire !
 
 Après les premières versions de tests Alpha, nous développerons un système de comptes Premium et de points de crédits destinés notamment à la customisation de 
@@ -67,13 +69,13 @@ Après les premières versions de tests Alpha, nous développerons un système d
 
 Et oui Jamie, après avoir fait tester et approuver un prototype par notre groupe d’ambassadeurs (amis, familles, anciens collègues), on a commencé le développement de la première version de l’application: idéalement, elle pourrait sortir sur mobile début 2021. 
 
-- [x] Brainstorming des fonctionnalités
-- [x] Création des maquettes de design
-- [ ] Développement d’un premier prototype pour nos ambassadeurs
-- [ ] Prise en compte des retours et lancement de la version Beta fermée
-- [ ] Ouverture de l’application Beta à tout le monde
-- [ ] Implémentation des accès Premium (via les)
+- [x]  Brainstorming des fonctionnalités
+- [x]  Création des maquettes de design
+- [ ]  Développement d’un premier prototype pour nos ambassadeurs
+- [ ]  Prise en compte des retours et lancement de la version Beta fermée
+- [ ]  Ouverture de l’application Beta à tout le monde
+- [ ]  Implémentation des accès Premium (via les)
 
 Prepare for battle... Quiz !
 
-![](https://media1.giphy.com/media/61tYloUgq1eOk/giphy.mp4)
+![](https://media.giphy.com/media/61tYloUgq1eOk/giphy.gif)
