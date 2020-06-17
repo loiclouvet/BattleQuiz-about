@@ -14,7 +14,7 @@ Un jeu de quiz compétitif qui a pour objectif de permettre aux gens d’amélio
 ## “Compétitif vous avez dit ?”
 
 <p align="center">
-![](https://images.jeugeek.com/uploads/images-content/grades-overwatch-ranked-paliers.jpg)
+  <img src="https://images.jeugeek.com/uploads/images-content/grades-overwatch-ranked-paliers.jpg">
 </p>
 
 Nous avons élaboré un système de points de type ELO composé de 6 rangs.
@@ -22,7 +22,7 @@ Jouer contre vos amis ou contre un redoutable adversaire aléatoire vous fera é
 Qui seront les premiers à accéder au rang d’Élite ? 💪
 
 <p align="center">
-![](https://media3.giphy.com/media/3o7bu57lYhUEFiYDSM/giphy.gif)
+  <img src="https://media3.giphy.com/media/3o7bu57lYhUEFiYDSM/giphy.gif" width="500">
 </p>
 
 ## “Gagner c’est bien, progresser c’est mieux !”
@@ -35,7 +35,7 @@ Apprendre, c’est le coeur de notre projet. Au programme :
 - une rubrique “Le saviez-vous ?” pour ne jamais en finir d’apprendre et de s’améliorer entre vos parties !
 
 <p align="center">
-![](https://media.giphy.com/media/i45Wufh14ggPMgSvrC/giphy.gif)
+  <img src="https://media.giphy.com/media/i45Wufh14ggPMgSvrC/giphy.gif" width="500">
 </p>
 
 Fini les longues heures devant l’encyclopédie larousse pour gagner aux jeux de quiz !
@@ -57,7 +57,7 @@ Assurez-vous de bien analyser le profil de votre adversaire afin de choisir les 
 Pour les futures versions, nous travaillons sur des mécanismes permettant plus d’interactions et d’adaptation à l’adversaire. 
 
 <p align="center">
-![](https://media.giphy.com/media/3R9LDINpbGX2o/giphy.gif)
+  <img src="https://media.giphy.com/media/3R9LDINpbGX2o/giphy.gif" width="500">
 </p>
 
 N’hésitez pas à commenter, on a hate de vous lire !
@@ -69,7 +69,7 @@ N’hésitez pas à commenter, on a hate de vous lire !
 Face aux nombreuses expériences de jeux en ligne saturés de publicités commerciales désagréables et inutiles, nous souhaitons libérer votre temps de cerveau disponible pour le consacrer à la curiosité, l’apprentissage et le divertissement !
 
 <p align="center">
-![](https://media.giphy.com/media/h9CwMia6QbZuw/giphy.gif)
+  <img src="https://media.giphy.com/media/h9CwMia6QbZuw/giphy.gif" width="500">
 </p>
 
 Fini les 30 secondes de pub obligatoire !
