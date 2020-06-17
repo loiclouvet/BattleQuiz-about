@@ -42,7 +42,6 @@ Fini les longues heures devant l’encyclopédie larousse pour gagner aux jeux d
 
 ## Parce qu’on aime titiller votre curiosité
 
-
 Dans BattleQuiz, on ne range pas les questions dans une case !  
 Pour faire son choix, le joueur pourra voir les thèmes associés à chaque question mais aussi une phrase d’accroche qui donnera un indice sur le contenu de la question.
 
@@ -50,8 +49,9 @@ Image de l’appli (choix question)
 
 ## STRA-TÉ-GIE!
 
-
-*(image présentation duel / profil)*
+<p align="center">
+ *(image présentation duel / profil)*
+</p>
 
 Assurez-vous de bien analyser le profil de votre adversaire afin de choisir les questions qui le mettront en difficulté ! Pour vous faire gagner du temps, les points forts et faibles de chaque joueur sont mis en avant sur leur profil.
 Pour les futures versions, nous travaillons sur des mécanismes permettant plus d’interactions et d’adaptation à l’adversaire. 
@@ -72,14 +72,15 @@ Face aux nombreuses expériences de jeux en ligne saturés de publicités commer
   <img src="https://media.giphy.com/media/h9CwMia6QbZuw/giphy.gif" width="500">
 </p>
 
-Fini les 30 secondes de pub obligatoire !
+Fini les 30 secondes de pub obligatoire ! 🙏
 
-Après les premières versions de tests Alpha, nous développerons un système de comptes Premium et de points de crédits destinés notamment à la customisation de 
+Le financement se basera sur un système de comptes Premium et de points de crédits destinés à la customisation des profils des joueurs.
 
 ## “... Et ça avance?”
 
 <!--Et oui Jamie, après avoir fait tester et approuver un prototype par notre groupe d’ambassadeurs (amis, familles, anciens collègues), on a commencé le développement de la première version de l’application: idéalement, elle pourrait sortir sur mobile début 2021. -->
 
+Et oui Jamie 😉 :
 - [x] &nbsp; Création des maquettes de design
 - [ ] &nbsp; Développement d’un premier prototype pour nos ambassadeurs (famille, proches, collègues, ...)
 - [ ] &nbsp; Création de contenu (base de ~2000 questions)
