@@ -67,12 +67,12 @@ Après les premières versions de tests Alpha, nous développerons un système d
 
 Et oui Jamie, après avoir fait tester et approuver un prototype par notre groupe d’ambassadeurs (amis, familles, anciens collègues), on a commencé le développement de la première version de l’application: idéalement, elle pourrait sortir sur mobile début 2021. 
 
-- [x] (Brainstorming des fonctionnalités)
-- [x] (Création des maquettes de design)
-- [ ] (Développement d’un premier prototype pour nos ambassadeurs)
-- [ ] (Prise en compte des retours et lancement de la version Beta fermée)
-- [ ] (Ouverture de l’application Beta à tout le monde)
-- [ ] (Implémentation des accès Premium (via les))
+- [x] Brainstorming des fonctionnalités
+- [x] Création des maquettes de design
+- [ ] Développement d’un premier prototype pour nos ambassadeurs
+- [ ] Prise en compte des retours et lancement de la version Beta fermée
+- [ ] Ouverture de l’application Beta à tout le monde
+- [ ] Implémentation des accès Premium (via les)
 
 Prepare for battle... Quiz !
 
