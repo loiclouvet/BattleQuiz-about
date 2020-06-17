@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: BattleQuiz
 description: Parce que c'est bien
+github:
+  is_project_page: false
