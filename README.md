@@ -37,7 +37,8 @@ Fini les longues heures devant l’encyclopédie larousse pour gagner aux jeux d
 ## “Parce qu’on aime titiller votre curiosité”
 
 
-Dans BattleQuiz, on ne range pas les questions dans une case. Pour faire son choix, le joueur pourra voir les thèmes associés à chaque question mais aussi une phrase d’accroche qui donnera un indice sur le contenu de la question.
+Dans BattleQuiz, on ne range pas les questions dans une case !  
+Pour faire son choix, le joueur pourra voir les thèmes associés à chaque question mais aussi une phrase d’accroche qui donnera un indice sur le contenu de la question.
 
 Image de l’appli (choix question)
 
