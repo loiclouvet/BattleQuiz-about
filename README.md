@@ -25,10 +25,10 @@ Qui seront les premiers à accéder au rang d’Élite ? 💪
   <img src="https://media3.giphy.com/media/3o7bu57lYhUEFiYDSM/giphy.gif" width="500">
 </p>
 
-## “Gagner c’est bien, progresser c’est mieux !”
+## Gagner c’est bien, progresser c’est mieux !
 
 Apprendre, c’est le coeur de notre projet. Au programme :
-- des questions originales adaptées au niveau des joueurs.
+- des questions originales adaptées au niveau des joueurs
 - une seconde chance si vous n’avez pas deviné du premier coup
 - des explications inédites basées sur des citations et des sources fiables permettant au joueur de mieux retenir l’information et d’en apprendre plus sur le sujet !
 - des questions liées entre elles par leurs explications: soyez-attentifs, vous augmenterez vos chances de gagner ! 
@@ -40,7 +40,7 @@ Apprendre, c’est le coeur de notre projet. Au programme :
 
 Fini les longues heures devant l’encyclopédie larousse pour gagner aux jeux de quiz !
 
-## “Parce qu’on aime titiller votre curiosité”
+## Parce qu’on aime titiller votre curiosité
 
 
 Dans BattleQuiz, on ne range pas les questions dans une case !  
@@ -48,7 +48,7 @@ Pour faire son choix, le joueur pourra voir les thèmes associés à chaque ques
 
 Image de l’appli (choix question)
 
-## “STRA-TÉ-GIE!”
+## STRA-TÉ-GIE!
 
 
 *(image présentation duel / profil)*
@@ -78,15 +78,15 @@ Après les premières versions de tests Alpha, nous développerons un système d
 
 ## “... Et ça avance?”
 
-Et oui Jamie, après avoir fait tester et approuver un prototype par notre groupe d’ambassadeurs (amis, familles, anciens collègues), on a commencé le développement de la première version de l’application: idéalement, elle pourrait sortir sur mobile début 2021. 
+<!--Et oui Jamie, après avoir fait tester et approuver un prototype par notre groupe d’ambassadeurs (amis, familles, anciens collègues), on a commencé le développement de la première version de l’application: idéalement, elle pourrait sortir sur mobile début 2021. -->
 
-- [x]  Brainstorming des fonctionnalités
-- [x]  Création des maquettes de design
-- [ ]  Développement d’un premier prototype pour nos ambassadeurs
-- [ ]  Prise en compte des retours et lancement de la version Beta fermée
-- [ ]  Ouverture de l’application Beta à tout le monde
-- [ ]  Implémentation des accès Premium (via les)
-
+- [x] &nbsp; Création des maquettes de design
+- [ ] &nbsp; Développement d’un premier prototype pour nos ambassadeurs (famille, proches, collègues, ...)
+- [ ] &nbsp; Création de contenu (base de ~2000 questions)
+- [ ] &nbsp; Prise en compte des retours et lancement de la version Beta fermée
+- [ ] &nbsp; Création de contenus débloquables et achetables (avatars) à l'aide d'un designer
+- [ ] &nbsp; Implémentation des accès Premium (via AppStore / PlayStore)
+- [ ] &nbsp; Ouverture de l’application Beta à tout le monde
 
 <p align="center">
   <img src="https://media.giphy.com/media/61tYloUgq1eOk/giphy.gif" width="500">
