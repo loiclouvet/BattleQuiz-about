@@ -6,10 +6,12 @@
 
 
 .page-header {
-    color: #fff;
-    text-align: center;
     background-color: #45377D;
     background-image: url('../../header.png');
     background-size: cover;
     font-family: 'Baloo 2', cursive;
+}
+
+.project-tagline {
+    opacity: 0.9;
 }
