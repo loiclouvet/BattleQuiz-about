@@ -30,8 +30,8 @@
 
 ul {
   list-style-type: none;
-}
-
-.with-bullets ul {
-  list-style-type: disc;
+  
+  .with-bullets {
+    list-style-type: disc;
+  }
 }
