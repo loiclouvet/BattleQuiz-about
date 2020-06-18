@@ -95,16 +95,13 @@ Le financement se basera sur **un système de comptes Premium et de points de cr
 ## “... Et ça avance?”
 
 Et oui Jamie 😉 :
-
-<ul class="nobull">
-  <li>[x] &nbsp; Création des maquettes de design</li>
-  <li>[ ] &nbsp; Développement d’un premier prototype pour nos ambassadeurs (proches, collègues, ...)</li>
-  <li>[ ] &nbsp; Création de contenu (base de ~2000 questions)</li>
-  <li>[ ] &nbsp; Prise en compte des retours et lancement de la version Beta fermée</li>
-  <li>[ ] &nbsp; Création de contenus débloquables et achetables (avatars) à l'aide d'un designer</li>
-  <li>[ ] &nbsp; Implémentation des accès Premium (via AppStore / PlayStore)</li>
-  <li>[ ] &nbsp; Ouverture de l’application Beta à tout le monde</li>
-</ul>
+- [x] &nbsp; ~~Création des maquettes de design~~
+- [ ] &nbsp; Développement d’un premier prototype pour nos ambassadeurs (proches, collègues, ...)
+- [ ] &nbsp; Création de contenu (base de ~2000 questions)
+- [ ] &nbsp; Prise en compte des retours et lancement de la version Beta fermée
+- [ ] &nbsp; Création de contenus débloquables et achetables (avatars) à l'aide d'un designer
+- [ ] &nbsp; Implémentation des accès Premium (via AppStore / PlayStore)
+- [ ] &nbsp; Ouverture de l’application Beta à tout le monde
 
 <p align="center">
   <img src="https://media.giphy.com/media/61tYloUgq1eOk/giphy.gif" width="500">
