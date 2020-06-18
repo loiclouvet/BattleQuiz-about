@@ -95,6 +95,7 @@ Le financement se basera sur **un système de comptes Premium et de points de cr
 ## “... Et ça avance?”
 
 Et oui Jamie 😉 :
+
 <ul class="nobull">
   <li>[x] &nbsp; Création des maquettes de design</li>
   <li>[ ] &nbsp; Développement d’un premier prototype pour nos ambassadeurs (proches, collègues, ...)</li>
