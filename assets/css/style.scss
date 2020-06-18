@@ -6,12 +6,24 @@
 
 
 .page-header {
-    background-color: #45377D;
-    background-image: url('../../header.png');
-    background-size: cover;
-    font-family: 'Baloo 2', cursive;
+  background-color: #45377D;
+  background-image: url('../../header.png');
+  background-size: cover;
+  font-family: 'Baloo 2', cursive;
+    
+  @include large {
+    padding: 1rem 6rem;
+  }
+
+  @include medium {
+    padding: 1rem 4rem;
+  }
+
+  @include small {
+    padding: 1rem 1rem;
+  }
 }
 
 .project-tagline {
-    opacity: 0.9;
+  opacity: 0.9;
 }
