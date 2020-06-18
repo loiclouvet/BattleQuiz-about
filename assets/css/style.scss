@@ -28,10 +28,10 @@
   opacity: 0.9;
 }
 
+.with-bullets ul {
+  list-style-type: disc;
+}
+
 ul {
-  .with-bullets {
-    list-style-type: disc;
-  }
-  
   list-style-type: none;
 }
