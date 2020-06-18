@@ -24,7 +24,7 @@ Jouer contre vos amis ou contre un redoutable adversaire aléatoire vous fera é
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xTg8B9yQqY3JAK7OOQ/giphy.gif>
+  <img src="https://media.giphy.com/media/xTg8B9yQqY3JAK7OOQ/giphy.gif">
 </p>
 
 <p align="center">
