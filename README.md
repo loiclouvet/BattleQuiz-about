@@ -58,12 +58,14 @@ Qui seront les premiers à se hisser au rang d’Élite ? 💪
 Dans BattleQuiz, on ne range pas les questions dans une case !  
 Pour faire son choix, le joueur pourra voir les thèmes associés à chaque question mais aussi une phrase d’accroche qui donnera un indice sur le contenu de la question.
 
-Image de l’appli (choix question)
+<p align="center">
+ *Image de l’appli (choix question)*
+</p>
 
 ## STRA-TÉ-GIE!
 
 <p align="center">
- *(image présentation duel / profil)*
+ *Image présentation duel / profil*
 </p>
 
 Assurez-vous de bien analyser le profil de votre adversaire afin de choisir les questions qui le mettront en difficulté ! Pour vous faire gagner du temps, les points forts et faibles de chaque joueur sont mis en avant sur leur profil.
