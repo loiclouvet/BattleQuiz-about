@@ -97,20 +97,19 @@ Le financement se basera sur **un système de comptes Premium et de points de cr
 <!--Et oui Jamie, après avoir fait tester et approuver un prototype par notre groupe d’ambassadeurs (amis, familles, anciens collègues), on a commencé le développement de la première version de l’application: idéalement, elle pourrait sortir sur mobile début 2021. -->
 
 Et oui Jamie 😉 :
-
-<!--[x]--> &nbsp; ✅ &nbsp; Création des maquettes de design
+- [x] &nbsp; Création des maquettes de design
  
-<!--[ ]--> &nbsp; ❎ &nbsp; Développement d’un premier prototype pour nos ambassadeurs (famille, proches, collègues, ...)
+- [ ] &nbsp; Développement d’un premier prototype pour nos ambassadeurs (famille, proches, collègues, ...)
  
-<!--[ ]--> &nbsp; ❎ &nbsp; Création de contenu (base de ~2000 questions)
+- [ ] &nbsp; Création de contenu (base de ~2000 questions)
  
-<!--[ ]--> &nbsp; ❎ &nbsp; Prise en compte des retours et lancement de la version Beta fermée
+- [ ] &nbsp; Prise en compte des retours et lancement de la version Beta fermée
  
-<!--[ ]--> &nbsp; ❎ &nbsp; Création de contenus débloquables et achetables (avatars) à l'aide d'un designer
+- [ ] &nbsp; Création de contenus débloquables et achetables (avatars) à l'aide d'un designer
  
-<!--[ ]--> &nbsp; ❎ &nbsp; Implémentation des accès Premium (via AppStore / PlayStore)
+- [ ] &nbsp; Implémentation des accès Premium (via AppStore / PlayStore)
  
-<!--[ ]--> &nbsp; ❎ &nbsp; Ouverture de l’application Beta à tout le monde
+- [ ] &nbsp; Ouverture de l’application Beta à tout le monde
 
 <p align="center">
   <img src="https://media.giphy.com/media/61tYloUgq1eOk/giphy.gif" width="500">
