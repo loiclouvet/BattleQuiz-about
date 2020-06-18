@@ -35,11 +35,13 @@ Qui seront les premiers à se hisser au rang d’Élite ? 💪
 ## Gagner c’est bien, progresser c’est mieux !
 
 **Apprendre, c’est le coeur de notre projet**. Au programme :
-- des questions originales adaptées au niveau des joueurs
-- **une seconde chance** si vous n’avez pas deviné du premier coup
-- **des explications inédites** basées sur des citations et des sources fiables permettant au joueur de mieux retenir l’information et d’en apprendre plus sur le sujet !
-- **des questions liées entre elles par leurs explications**: soyez-attentifs, vous augmenterez vos chances de gagner ! 
-- **une rubrique “Le saviez-vous ?”** pour ne jamais en finir d’apprendre et de s’améliorer entre vos parties !
+<ul class="with-bullets">
+  <li>des questions originales adaptées au niveau des joueurs</li>
+  <li><strong>une seconde chance</strong> si vous n’avez pas deviné du premier coup</li>
+  <li><strong>des explications inédites</strong> basées sur des citations et des sources fiables permettant au joueur de mieux retenir l’information et d’en apprendre plus sur le sujet !</li>
+  <li><strong>des questions liées entre elles par leurs explications</strong>: soyez-attentifs, vous augmenterez vos chances de gagner !</li>
+  <li><strong>une rubrique “Le saviez-vous ?”</strong> pour ne jamais en finir d’apprendre et de s’améliorer entre vos parties !</li>
+</ul>
 
 <p align="center">
   <img src="https://media.giphy.com/media/i45Wufh14ggPMgSvrC/giphy.gif" width="500">
