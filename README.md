@@ -66,8 +66,9 @@ Pour les futures versions, nous travaillons sur des mécanismes permettant plus 
   <img src="https://media.giphy.com/media/3R9LDINpbGX2o/giphy.gif" width="500">
 </p>
 
-N’hésitez pas à commenter, on a hate de vous lire !
-
+<p align="center">
+  N’hésitez pas à commenter, on a hate de vous lire !
+</p>
 
 ## Financement
 
