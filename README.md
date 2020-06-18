@@ -21,12 +21,17 @@ Un jeu de **quiz compétitif** qui a pour objectif de permettre aux gens d’**a
 
 Nous avons élaboré **un système de points de type ELO composé de 6 rangs**.
 Jouer contre vos amis ou contre un redoutable adversaire aléatoire vous fera évoluer dans le classement. Tous les 2 mois, à la fin de chaque saison, vous gagnerez un lot de récompense en fonction de votre rang.
-Qui seront les premiers à accéder au rang d’Élite ? 💪
+
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/3o7bu57lYhUEFiYDSM/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/xTg8B9yQqY3JAK7OOQ/giphy.gif>
 </p>
 
+<p align="center">
+Qui seront les premiers à accéder au rang d’Élite ? 💪
+</p>
+ <!--Qui seront les premier à se hisser au sommets du classement? https://media3.giphy.com/media/3o7bu57lYhUEFiYDSM/giphy.gif" width="500"-->
+ 
 ## Gagner c’est bien, progresser c’est mieux !
 
 **Apprendre, c’est le coeur de notre projet**. Au programme :
