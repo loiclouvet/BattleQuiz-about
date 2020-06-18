@@ -94,12 +94,10 @@ Le financement se basera sur **un système de comptes Premium et de points de cr
 
 ## “... Et ça avance?”
 
-<!--Et oui Jamie, après avoir fait tester et approuver un prototype par notre groupe d’ambassadeurs (amis, familles, anciens collègues), on a commencé le développement de la première version de l’application: idéalement, elle pourrait sortir sur mobile début 2021. -->
-
 Et oui Jamie 😉 :
 - [x] &nbsp; Création des maquettes de design
  
-- [ ] &nbsp; Développement d’un premier prototype pour nos ambassadeurs (famille, proches, collègues, ...)
+- [ ] &nbsp; Développement d’un premier prototype pour nos ambassadeurs (proches, collègues, ...)
  
 - [ ] &nbsp; Création de contenu (base de ~2000 questions)
  
