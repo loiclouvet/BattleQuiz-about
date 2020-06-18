@@ -19,7 +19,7 @@ Un jeu de **quiz compétitif** qui a pour objectif de permettre aux gens d’**a
 
  <!--<img src="https://images.jeugeek.com/uploads/images-content/grades-overwatch-ranked-paliers.jpg">-->
 
-Nous avons élaboré un système de points de type ELO composé de **6 rangs**.
+Nous avons élaboré **un système de points de type ELO composé de 6 rangs**.
 Jouer contre vos amis ou contre un redoutable adversaire aléatoire vous fera évoluer dans le classement. Tous les 2 mois, à la fin de chaque saison, vous gagnerez un lot de récompense en fonction de votre rang.
 Qui seront les premiers à accéder au rang d’Élite ? 💪
 
@@ -31,10 +31,10 @@ Qui seront les premiers à accéder au rang d’Élite ? 💪
 
 **Apprendre, c’est le coeur de notre projet**. Au programme :
 - des questions originales adaptées au niveau des joueurs
-- une seconde chance si vous n’avez pas deviné du premier coup
-- des explications inédites basées sur des citations et des sources fiables permettant au joueur de mieux retenir l’information et d’en apprendre plus sur le sujet !
-- des questions liées entre elles par leurs explications: soyez-attentifs, vous augmenterez vos chances de gagner ! 
-- une rubrique “Le saviez-vous ?” pour ne jamais en finir d’apprendre et de s’améliorer entre vos parties !
+- **une seconde chance** si vous n’avez pas deviné du premier coup
+- **des explications inédites** basées sur des citations et des sources fiables permettant au joueur de mieux retenir l’information et d’en apprendre plus sur le sujet !
+- **des questions liées entre elles par leurs explications**: soyez-attentifs, vous augmenterez vos chances de gagner ! 
+- **une rubrique “Le saviez-vous ?”** pour ne jamais en finir d’apprendre et de s’améliorer entre vos parties !
 
 <p align="center">
   <img src="https://media.giphy.com/media/i45Wufh14ggPMgSvrC/giphy.gif" width="500">
@@ -85,7 +85,7 @@ Face aux nombreuses expériences de jeux en ligne saturés de publicités commer
 
 
 
-Le financement se basera sur un système de comptes Premium et de points de crédits destinés à la customisation des profils des joueurs.
+Le financement se basera sur **un système de comptes Premium et de points de crédits** destinés à la customisation des profils des joueurs.
 
 ## “... Et ça avance?”
 
