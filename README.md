@@ -36,6 +36,7 @@ Apprendre, c’est le coeur de notre projet. Au programme :
 
 <p align="center">
   <img src="https://media.giphy.com/media/i45Wufh14ggPMgSvrC/giphy.gif" width="500">
+
 Fini les longues heures devant l’encyclopédie larousse pour gagner aux jeux de quiz !
 </p>
 
@@ -71,6 +72,7 @@ Face aux nombreuses expériences de jeux en ligne saturés de publicités commer
 
 <p align="center">
   <img src="https://media.giphy.com/media/h9CwMia6QbZuw/giphy.gif" width="500">
+
 Fini les 30 secondes de pub obligatoire ! 🙏
 </p>
 
