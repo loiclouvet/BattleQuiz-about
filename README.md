@@ -87,7 +87,7 @@ Face aux nombreuses expériences de jeux en ligne saturés de publicités commer
 </p>
 
 <p align="center">
-  Fini les 30 secondes de pub obligatoire ! 🙏
+  Fini les 30 secondes de pub obligatoire à chaque partie ! 🙏
 </p>
 
 
