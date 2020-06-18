@@ -28,9 +28,9 @@ Jouer contre vos amis ou contre un redoutable adversaire aléatoire vous fera é
 </p>
 
 <p align="center">
-Qui seront les premiers à accéder au rang d’Élite ? 💪
+Qui seront les premiers à se hisser au rang d’Élite ? 💪
 </p>
- <!--Qui seront les premier à se hisser au sommets du classement? https://media3.giphy.com/media/3o7bu57lYhUEFiYDSM/giphy.gif" width="500"-->
+ <!--accéder Qui seront les premier à se hisser au sommets du classement? https://media3.giphy.com/media/3o7bu57lYhUEFiYDSM/giphy.gif" width="500"-->
  
 ## Gagner c’est bien, progresser c’est mieux !
 
