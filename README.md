@@ -5,7 +5,7 @@ En jouant ensemble à des jeux de quiz sur mobile, on a fait le constat suivant 
 
 Dans un jeu de quiz sur mobile, que tu aies la bonne réponse ou non, tu enchaînes les questions sans explications précises et au final, tu as cette désagréable impression d’étaler tes connaissances sans véritablement comprendre ni apprendre.
 
-A la frustration, **nous préférons le plaisir**: le plaisir d’apprendre, le plaisir de progresser, le plaisir de jouer !
+A la frustration, **nous préférons le plaisir** : le plaisir d’apprendre, le plaisir de progresser, le plaisir de jouer !
 
 ## Et hop … BattleQuiz est né !
 
@@ -36,8 +36,10 @@ Apprendre, c’est le coeur de notre projet. Au programme :
 
 <p align="center">
   <img src="https://media.giphy.com/media/i45Wufh14ggPMgSvrC/giphy.gif" width="500">
+</p>
 
-Fini les longues heures devant l’encyclopédie larousse pour gagner aux jeux de quiz !
+<p align="center">
+  Fini les longues heures devant l’encyclopédie larousse pour gagner aux jeux de quiz !
 </p>
 
 
@@ -72,8 +74,10 @@ Face aux nombreuses expériences de jeux en ligne saturés de publicités commer
 
 <p align="center">
   <img src="https://media.giphy.com/media/h9CwMia6QbZuw/giphy.gif" width="500">
+</p>
 
-Fini les 30 secondes de pub obligatoire ! 🙏
+<p align="center">
+  Fini les 30 secondes de pub obligatoire ! 🙏
 </p>
 
 
