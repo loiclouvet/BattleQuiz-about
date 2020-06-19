@@ -3,7 +3,7 @@ En jouant ensemble à des jeux de quiz sur mobile, on a fait le constat suivant 
 
 ## “C’est amusant ou c’est frustrant ?”
 
-Dans un jeu de quiz sur mobile, que tu aies la bonne réponse ou non, tu enchaînes les questions sans explications précises et au final, tu as cette désagréable impression d’étaler tes connaissances sans véritablement comprendre ni apprendre.
+Dans un jeu de quiz sur mobile, que tu aies la bonne réponse ou non, tu enchaînes les questions sans explications précises. Au final, tu as cette désagréable impression d’étaler tes connaissances sans véritablement comprendre ni apprendre.
 
 A la frustration, **nous préférons le plaisir** : le plaisir d’apprendre, le plaisir de progresser, le plaisir de jouer !
 
@@ -34,9 +34,9 @@ Qui seront les premiers à se hisser au rang d’Élite ? 💪
  
 ## Gagner c’est bien, progresser c’est mieux !
 
-**Apprendre, c’est le coeur de notre projet**. Au programme :
+**Apprendre, c’est le cœur de notre projet**. Au programme :
 - des questions originales adaptées au niveau des joueurs
-- **une seconde chance** si vous n’avez pas deviné du premier coup
+- **une seconde chance** si vous n’avez pas trouvé du premier coup
 - **des explications inédites** basées sur des citations et des sources fiables permettant au joueur de mieux retenir l’information et d’en apprendre plus sur le sujet !
 - **des questions liées entre elles par leurs explications**: soyez-attentifs, vous augmenterez vos chances de gagner !
 - **une rubrique “Le saviez-vous ?”** pour ne jamais en finir d’apprendre et de s’améliorer entre vos parties !
