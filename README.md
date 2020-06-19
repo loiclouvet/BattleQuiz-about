@@ -75,7 +75,7 @@ Pour les futures versions, nous travaillons sur des mécanismes permettant plus 
 Face aux nombreuses expériences de jeux en ligne saturés de publicités commerciales désagréables et inutiles, nous souhaitons libérer votre temps de cerveau disponible pour le consacrer à la curiosité, l’apprentissage et le divertissement !
 
 <p align="center">
-  <img src="https://media.giphy.com/media/h9CwMia6QbZuw/giphy.gif" width="500">
+  <img src="https://i.pinimg.com/originals/26/a8/cf/26a8cfbcf83e8dadff00bcd90fc47acb.gif" width="500">
 </p>
 
 <p align="center">
