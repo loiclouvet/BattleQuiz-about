@@ -67,15 +67,7 @@ Pour faire son choix, le joueur pourra voir les thèmes associés à chaque ques
 </p>
 
 Assurez-vous de bien analyser le profil de votre adversaire afin de choisir les questions qui le mettront en difficulté ! Pour vous faire gagner du temps, les points forts et faibles de chaque joueur sont mis en avant sur leur profil.
-Pour les futures versions, nous travaillons sur des mécanismes permettant plus d’interactions et d’adaptation à l’adversaire. 
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3R9LDINpbGX2o/giphy.gif" width="500">
-</p>
-
-<p align="center">
-  N’hésitez pas à commenter, on a hate de vous lire !
-</p>
+Pour les futures versions, nous travaillons sur des mécanismes permettant plus d’interactions et d’adaptation à l’adversaire.
 
 ## Financement
 
