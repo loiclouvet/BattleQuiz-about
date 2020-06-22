@@ -35,7 +35,7 @@ Qui seront les premiers à se hisser au rang d’Élite ? 💪
 ## Gagner c’est bien, progresser c’est mieux !
 
 **Apprendre, c’est le cœur de notre projet**. Au programme :
-- des questions originales adaptées au niveau des joueurs
+- des questions originales **adaptées au niveau des joueurs**
 - **une seconde chance** si vous n’avez pas trouvé du premier coup
 - **des explications inédites** basées sur des citations et des sources fiables permettant au joueur de mieux retenir l’information et d’en apprendre plus sur le sujet !
 - **des questions liées entre elles par leurs explications**: soyez-attentifs, vous augmenterez vos chances de gagner !
@@ -48,7 +48,6 @@ Qui seront les premiers à se hisser au rang d’Élite ? 💪
 <p align="center">
   Les longues heures devant l’encyclopédie larousse pour gagner aux jeux de quiz, c'est du passé ! 📜
 </p>
-
 
 
 ## Parce qu’on aime titiller votre curiosité
@@ -75,7 +74,7 @@ Pour les futures versions, nous travaillons sur des mécanismes permettant plus 
 Face aux nombreuses expériences de jeux en ligne saturés de publicités commerciales désagréables et inutiles, nous souhaitons libérer votre temps de cerveau disponible pour le consacrer à la curiosité, l’apprentissage et le divertissement !
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/26/a8/cf/26a8cfbcf83e8dadff00bcd90fc47acb.gif" width="500">
+  <img src="https://i.pinimg.com/originals/26/a8/cf/26a8cfbcf83e8dadff00bcd90fc47acb.gif" width="250">
 </p>
 
 <p align="center">
