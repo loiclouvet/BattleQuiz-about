@@ -91,8 +91,8 @@ Le financement se basera sur **un système de comptes Premium et de points de cr
 
 Et oui Jamie 😉 :
 - [x] &nbsp; ~~Création des maquettes de design~~
-- [ ] &nbsp; Développement d’un premier prototype pour nos ambassadeurs (proches, collègues, ...)
-- [ ] &nbsp; Création de contenu (base de ~2000 questions)
+- [ ] &nbsp; **(en cours)** Développement d’un premier prototype pour nos ambassadeurs (proches, collègues, ...)
+- [ ] &nbsp; **(en cours)** Création de contenu (base de ~2000 questions)
 - [ ] &nbsp; Prise en compte des retours et lancement de la version Beta fermée
 - [ ] &nbsp; Création de contenus débloquables et achetables (avatars) à l'aide d'un designer
 - [ ] &nbsp; Implémentation des accès Premium (via AppStore / PlayStore)
