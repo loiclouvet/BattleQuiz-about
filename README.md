@@ -9,6 +9,10 @@ A la frustration, **nous préférons le plaisir** : le plaisir d’apprendre, le
 
 ## Et hop … BattleQuiz est né !
 
+<p align="center">
+  <img src=./mockups.png" width="500">
+</p>
+
 Un jeu de **quiz compétitif** qui a pour objectif de permettre aux gens d’**améliorer leur culture G** et de s’informer sur les actualités du monde tout en s’amusant. Cool, non ?
 
 ## “Compétitif vous avez dit ?”
@@ -16,8 +20,6 @@ Un jeu de **quiz compétitif** qui a pour objectif de permettre aux gens d’**a
 <p align="center">
   <img src="https://raw.githubusercontent.com/loiclouvet/BattleQuiz-about/master/rank_prez_2.png">
  </p>
-
- <!--<img src="https://images.jeugeek.com/uploads/images-content/grades-overwatch-ranked-paliers.jpg">-->
 
 Nous avons élaboré **un système de points de type ELO composé de 6 rangs**.
 Jouer contre vos amis ou contre un redoutable adversaire aléatoire vous fera évoluer dans le classement. Tous les 2 mois, à la fin de chaque saison, vous gagnerez un lot de récompense en fonction de votre rang.
