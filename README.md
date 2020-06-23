@@ -10,7 +10,7 @@ A la frustration, **nous préférons le plaisir** : le plaisir d’apprendre, le
 ## Et hop … BattleQuiz est né !
 
 <p align="center">
-  <img src=./mockups.png" width="500">
+  <img src="mockups.png">
 </p>
 
 Un jeu de **quiz compétitif** qui a pour objectif de permettre aux gens d’**améliorer leur culture G** et de s’informer sur les actualités du monde tout en s’amusant. Cool, non ?
