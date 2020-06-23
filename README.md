@@ -18,7 +18,7 @@ Un jeu de **quiz compétitif** qui a pour objectif de permettre aux gens d’**a
 ## “Compétitif vous avez dit ?”
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/loiclouvet/BattleQuiz-about/master/rank_prez_2.png">
+  <img src="rank_prez_2.png">
  </p>
 
 Nous avons élaboré **un système de points de type ELO composé de 6 rangs**.
