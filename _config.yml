@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 lang: fr-FR
 title: BattleQuiz
+google_analytics: UA-42170580-4
 description: La nouvelle app de quiz compétitif pour briller en société ! 😏
 github:
   is_project_page: false
