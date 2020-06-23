@@ -19,7 +19,7 @@ Un jeu de **quiz compétitif** qui a pour objectif de permettre aux gens d’**a
 
 <p align="center">
   <img src="rank_prez_2.png">
- </p>
+</p>
 
 Nous avons élaboré **un système de points de type ELO composé de 6 rangs**.
 Jouer contre vos amis ou contre un redoutable adversaire aléatoire vous fera évoluer dans le classement. Tous les 2 mois, à la fin de chaque saison, vous gagnerez un lot de récompense en fonction de votre rang.
@@ -64,7 +64,7 @@ Pour faire son choix, le joueur pourra voir les thèmes associés à chaque ques
 ## STRA-TÉ-GIE!
 
 <p align="center">
- *Image présentation duel / profil*
+  <img src="mockups2.png" width="500">
 </p>
 
 Assurez-vous de bien analyser le profil de votre adversaire afin de choisir les questions qui le mettront en difficulté ! Pour vous faire gagner du temps, les points forts et faibles de chaque joueur sont mis en avant sur leur profil.
