@@ -44,21 +44,7 @@ Qui seront les premiers à se hisser au rang d’Élite ? 💪
 - **une rubrique “Le saviez-vous ?”** pour ne jamais en finir d’apprendre et de s’améliorer entre vos parties !
 
 <p align="center">
-  <img src="https://media.giphy.com/media/i45Wufh14ggPMgSvrC/giphy.gif" width="500">
-</p>
-
-<p align="center">
-  Les longues heures devant l’encyclopédie larousse pour gagner aux jeux de quiz, c'est du passé ! 📜
-</p>
-
-
-## Parce qu’on aime titiller votre curiosité
-
-Dans BattleQuiz, on ne range pas les questions dans une case !  
-Pour faire son choix, le joueur pourra voir les thèmes associés à chaque question mais aussi une phrase d’accroche qui donnera un indice sur le contenu de la question.
-
-<p align="center">
- *Image de l’appli (choix question)*
+  <img src="mockups3.png" width="750">
 </p>
 
 ## STRA-TÉ-GIE!
@@ -66,6 +52,8 @@ Pour faire son choix, le joueur pourra voir les thèmes associés à chaque ques
 <p align="center">
   <img src="mockups2.png" width="500">
 </p>
+
+Pour faire son choix, le joueur pourra voir les thèmes associés à chaque question mais aussi une phrase d’accroche qui donnera un indice sur le contenu de la question.
 
 Assurez-vous de bien analyser le profil de votre adversaire afin de choisir les questions qui le mettront en difficulté ! Pour vous faire gagner du temps, les points forts et faibles de chaque joueur sont mis en avant sur leur profil.
 Pour les futures versions, nous travaillons sur des mécanismes permettant plus d’interactions et d’adaptation à l’adversaire.
@@ -82,8 +70,6 @@ Face aux nombreuses expériences de jeux en ligne saturés de publicités commer
 <p align="center">
   Fini les 30 secondes de pub obligatoire à chaque partie ! 🙏
 </p>
-
-
 
 Le financement se basera sur **un système de comptes Premium et de points de crédits** destinés à la customisation des profils des joueurs.
 
