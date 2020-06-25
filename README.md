@@ -21,7 +21,7 @@ Un jeu de **quiz compétitif** qui a pour objectif de permettre aux gens d’**a
   <img src="rank_prez_2.png">
 </p>
 
-Nous avons élaboré **un système de points de type ELO composé de 6 rangs**.
+Nous avons élaboré **un système de points de type ELO composé de 7 rangs**.
 Jouer contre vos amis ou contre un redoutable adversaire aléatoire vous fera évoluer dans le classement. Tous les 2 mois, à la fin de chaque saison, vous gagnerez un lot de récompense en fonction de votre rang.
 
 
@@ -75,7 +75,7 @@ Le financement se basera sur **un système de comptes Premium et de points de cr
 
 ## “... Et ça avance?”
 
-Et oui Jamie 😉 :
+Et oui Jamy 😉 :
 - [x] &nbsp; ~~Création des maquettes de design~~
 - [ ] &nbsp; **(en cours)** Développement d’un premier prototype pour nos ambassadeurs (proches, collègues, ...)
 - [ ] &nbsp; **(en cours)** Création de contenu (base de ~2000 questions)
